@@ -5,13 +5,13 @@ The main goal of this project is to create as many `Bee Swarm Simulator` related
 ## List of Current Emojis
 + Cobalt Bee: `Nice!`
 + Baby Bee: `Woah!`
-+ Honey Bee: `Smirk`
-+ Vicious Bee: `Infuriated`
-+ Windy Bee: `Poggers!`
-+ Exhausted Bee: `Tired..`
-+ Looker Bee: `I See..`
-+ Rascal Bee: `YAY!`
-+ Spirit Bear: `Shut!`
++ Honey Bee: `Smirk` (WIP)
++ Vicious Bee: `Infuriated` (WIP)
++ Windy Bee: `Poggers!` (WIP)
++ Exhausted Bee: `Tired..` (WIP)
++ Looker Bee: `I See..` (WIP)
++ Rascal Bee: `YAY!` (WIP)
++ Spirit Bear: `Shut!` (WIP)
 
 ## Frequently Asked Questions
 ### Can I submit my own ideas?
