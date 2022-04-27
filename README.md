@@ -7,10 +7,10 @@ The main goal of this project is to create as many `Bee Swarm Simulator` related
 + Baby Bee: `Woah!`
 + Honey Bee: `Smirk`
 + Vicious Bee: `Infuriated` (WIP)
-+ Windy Bee: `Poggers!` (WIP)
++ Windy Bee: `Poggers!`
 + Exhausted Bee: `Tired..` (WIP)
 + Looker Bee: `I See..` (WIP)
-+ Rascal Bee: `YAY!` (WIP)
++ Rascal Bee: `YAY!`
 + Spirit Bear: `Shut!` (WIP)
 
 ## Frequently Asked Questions
