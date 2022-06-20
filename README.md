@@ -1,5 +1,5 @@
 # Project: Bee Swarm Simulator Emojis
-Project: BSSE is a personal Project started by `Maciej#2005` A.K.A. `MaciejCreates` in **2022**.  
+Project: BSSE is a personal Project started by `Maciej#7680` A.K.A. `MaciejCreates` in **2022**.  
 The main goal of this project is to create as many `Bee Swarm Simulator` related emojis as possible, for all of the community to enjoy and freely use in their servers or maybe even inside of the `Bee Swarm Simulator` Discord Server one day!  
 
 ## List of Current Emojis
